@@ -1,0 +1,9 @@
+d:\Users\vv\Documents\Visual Studio 2017\Projects\Houses\Houses\bin\Debug\Houses.exe.config
+d:\Users\vv\Documents\Visual Studio 2017\Projects\Houses\Houses\bin\Debug\Houses.exe
+d:\Users\vv\Documents\Visual Studio 2017\Projects\Houses\Houses\bin\Debug\Houses.pdb
+d:\Users\vv\Documents\Visual Studio 2017\Projects\Houses\Houses\bin\Debug\SmallBasicLibrary.dll
+d:\Users\vv\Documents\Visual Studio 2017\Projects\Houses\Houses\bin\Debug\SmallBasicLibrary.xml
+d:\Users\vv\Documents\Visual Studio 2017\Projects\Houses\Houses\obj\Debug\Houses.csprojResolveAssemblyReference.cache
+d:\Users\vv\Documents\Visual Studio 2017\Projects\Houses\Houses\obj\Debug\Houses.csproj.CoreCompileInputs.cache
+d:\Users\vv\Documents\Visual Studio 2017\Projects\Houses\Houses\obj\Debug\Houses.exe
+d:\Users\vv\Documents\Visual Studio 2017\Projects\Houses\Houses\obj\Debug\Houses.pdb
